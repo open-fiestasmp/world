@@ -1,18 +1,19 @@
-# FiestaSMP Overworld snapshot
+# FiestaSMP world backup
 
-Public snapshot of the `world` Overworld folder from the FiestaSMP Minecraft Java server at **fiestamc.neocities.org**. This repo is one part of the server's world backup. Snapshot date is shown on the dated release; Git commit timestamps record each repository update. The Overworld includes player data.
+This is the raw `world` folder from FiestaSMP at **fiestamc.neocities.org**. Snapshot date: **2026-11-21**. It is the Overworld and includes player data. The Nether and End are in the other repos.
 
-## Download
+## Download it
 
-Open [Releases](https://github.com/open-fiestasmp/world/releases), choose the dated `snapshot-2026-11-21` release, and download **Source code (zip)**. Extract it; the folder containing `level.dat` is the Overworld save. **Code → Download ZIP** downloads the current branch instead.
+Open [Releases](https://github.com/open-fiestasmp/world/releases), pick `snapshot-2026-11-21`, then download **Source code (zip)** and extract it. The folder with `level.dat` is the world save. **Code → Download ZIP** gets the latest branch instead.
 
-## Load in Minecraft Java Edition
+## Put it in Minecraft
 
-For single-player, copy the extracted folder containing `level.dat` into your Java Edition `saves` directory and select it under **Singleplayer**. To include the FiestaSMP Nether and End in that single-player save, also download the `world-nether` and `world-the-end` repos and copy their `DIM-1` and `DIM1` folders into this save's root, respectively. Back up any destination save before replacing dimension folders.
+**Single-player:** copy the extracted folder with `level.dat` into your Java Edition `saves` folder. To bring in the other dimensions too, copy `DIM-1` from `world-nether` and `DIM1` from `world-the-end` into the save's root. Back up an existing save before replacing anything.
 
-For a Paper server, stop it first and back up all existing world folders. Replace the server's `world` folder with this extracted Overworld. To restore all dimensions, also restore `world-nether` as `world_nether` and `world-the-end` as `world_the_end`. Use a compatible Minecraft/Paper version; the standard Paper dimension layout is documented in the [Paper migration guide](https://docs.papermc.io/paper/migration/). Never merge files into a running world.
+**Paper server:** stop the server and back up its worlds first. Replace `world` with this folder. For the other dimensions, use the `world-nether` repo as `world_nether` and `world-the-end` as `world_the_end`. Don't merge files into a running world. Use a Minecraft/Paper version that can read this save.
 
-## Notice
+## About this backup
 
-Unofficial community backup of the FiestaSMP `world` save. Not affiliated with, endorsed by, or sponsored by Mojang or Microsoft. This repository grants no license to Minecraft software or other Mojang/Microsoft material; those are subject to their own terms.
+This is an unofficial FiestaSMP community backup. It is not affiliated with or endorsed by Mojang or Microsoft, and it does not give anyone a license to Minecraft or their other material.
+
 Backed up and published using Fiesta tools by `gautam652`.
