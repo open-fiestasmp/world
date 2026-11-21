@@ -1,0 +1,48 @@
+{
+  "stats": {
+    "minecraft:killed_by": {
+      "minecraft:skeleton": 1
+    },
+    "minecraft:used": {
+      "minecraft:beef": 3
+    },
+    "minecraft:mined": {
+      "minecraft:short_grass": 8,
+      "minecraft:tall_grass": 4
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 1,
+      "minecraft:time_since_rest": 6721,
+      "minecraft:walk_one_cm": 17017,
+      "minecraft:leave_game": 8,
+      "minecraft:walk_under_water_one_cm": 27,
+      "minecraft:damage_taken": 330,
+      "minecraft:damage_dealt": 25,
+      "minecraft:play_time": 11833,
+      "minecraft:open_shulker_box": 2,
+      "minecraft:jump": 210,
+      "minecraft:time_since_death": 6603,
+      "minecraft:drop": 1,
+      "minecraft:open_enderchest": 2,
+      "minecraft:interact_with_furnace": 11,
+      "minecraft:sprint_one_cm": 13632,
+      "minecraft:fall_one_cm": 9082,
+      "minecraft:total_world_time": 11833,
+      "minecraft:fly_one_cm": 49737,
+      "minecraft:walk_on_water_one_cm": 521,
+      "minecraft:crouch_one_cm": 698,
+      "minecraft:sneak_time": 291,
+      "minecraft:climb_one_cm": 674,
+      "minecraft:deaths": 1
+    },
+    "minecraft:dropped": {
+      "minecraft:wheat_seeds": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:brown_wool": 1,
+      "minecraft:wheat_seeds": 2,
+      "minecraft:cobblestone_stairs": 1
+    }
+  },
+  "DataVersion": 4671
+}

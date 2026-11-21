@@ -1,0 +1,50 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 2,
+      "minecraft:time_since_rest": 4340,
+      "minecraft:walk_one_cm": 40508,
+      "minecraft:leave_game": 2,
+      "minecraft:damage_taken": 749,
+      "minecraft:damage_dealt": 736,
+      "minecraft:play_time": 10959,
+      "minecraft:jump": 148,
+      "minecraft:time_since_death": 4307,
+      "minecraft:drop": 2,
+      "minecraft:sprint_one_cm": 4720,
+      "minecraft:open_chest": 12,
+      "minecraft:fall_one_cm": 2783,
+      "minecraft:total_world_time": 10959,
+      "minecraft:fly_one_cm": 7587,
+      "minecraft:crouch_one_cm": 1376,
+      "minecraft:sneak_time": 359,
+      "minecraft:deaths": 2,
+      "minecraft:player_kills": 3
+    },
+    "minecraft:used": {
+      "minecraft:player_head": 2,
+      "minecraft:iron_helmet": 1,
+      "minecraft:iron_chestplate": 1,
+      "minecraft:bow": 1,
+      "minecraft:obsidian": 1
+    },
+    "minecraft:mined": {
+      "minecraft:short_grass": 4,
+      "minecraft:dirt": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:dirt": 1,
+      "minecraft:obsidian": 1,
+      "minecraft:player_head": 2,
+      "minecraft:smooth_stone": 119
+    },
+    "minecraft:dropped": {
+      "minecraft:arrow": 1,
+      "minecraft:bow": 1
+    },
+    "minecraft:killed_by": {
+      "minecraft:player": 2
+    }
+  },
+  "DataVersion": 4671
+}

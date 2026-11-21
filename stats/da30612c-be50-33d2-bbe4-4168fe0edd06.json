@@ -1,0 +1,49 @@
+{
+  "stats": {
+    "minecraft:crafted": {
+      "minecraft:oak_planks": 64
+    },
+    "minecraft:used": {
+      "minecraft:oak_planks": 33
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 5092,
+      "minecraft:walk_one_cm": 15944,
+      "minecraft:leave_game": 2,
+      "minecraft:mob_kills": 1,
+      "minecraft:damage_taken": 352,
+      "minecraft:damage_dealt": 146,
+      "minecraft:play_time": 7635,
+      "minecraft:jump": 120,
+      "minecraft:time_since_death": 5054,
+      "minecraft:sprint_one_cm": 15461,
+      "minecraft:fall_one_cm": 2125,
+      "minecraft:total_world_time": 7635,
+      "minecraft:fly_one_cm": 24655,
+      "minecraft:sneak_time": 1,
+      "minecraft:deaths": 1
+    },
+    "minecraft:mined": {
+      "minecraft:short_grass": 15,
+      "minecraft:cornflower": 1,
+      "minecraft:dandelion": 1,
+      "minecraft:leaf_litter": 3,
+      "minecraft:oak_log": 16,
+      "minecraft:oak_planks": 1
+    },
+    "minecraft:killed_by": {
+      "minecraft:player": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:leaf_litter": 9,
+      "minecraft:oak_log": 16,
+      "minecraft:oak_planks": 1,
+      "minecraft:wheat_seeds": 2,
+      "minecraft:cornflower": 1
+    },
+    "minecraft:killed": {
+      "minecraft:spider": 1
+    }
+  },
+  "DataVersion": 4671
+}

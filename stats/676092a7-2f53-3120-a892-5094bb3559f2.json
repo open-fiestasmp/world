@@ -1,0 +1,21 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 8833,
+      "minecraft:walk_one_cm": 134,
+      "minecraft:total_world_time": 207167,
+      "minecraft:leave_game": 1179,
+      "minecraft:damage_taken": 18989,
+      "minecraft:sneak_time": 25541,
+      "minecraft:play_time": 207167,
+      "minecraft:deaths": 76,
+      "minecraft:time_since_death": 8832
+    },
+    "minecraft:killed_by": {
+      "minecraft:creeper": 2,
+      "minecraft:spider": 2,
+      "minecraft:zombie": 72
+    }
+  },
+  "DataVersion": 4671
+}

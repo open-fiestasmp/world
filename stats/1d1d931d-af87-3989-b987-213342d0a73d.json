@@ -1,0 +1,62 @@
+{
+  "stats": {
+    "minecraft:mined": {
+      "minecraft:short_grass": 2,
+      "minecraft:oak_leaves": 5,
+      "minecraft:leaf_litter": 1,
+      "minecraft:oak_log": 2,
+      "minecraft:shulker_box": 2
+    },
+    "minecraft:crafted": {
+      "minecraft:oak_planks": 8
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 6411,
+      "minecraft:walk_one_cm": 5160,
+      "minecraft:leave_game": 6,
+      "minecraft:damage_taken": 608,
+      "minecraft:damage_dealt": 0,
+      "minecraft:play_time": 33280,
+      "minecraft:open_shulker_box": 5,
+      "minecraft:jump": 136,
+      "minecraft:time_since_death": 6250,
+      "minecraft:damage_dealt_absorbed": 5,
+      "minecraft:drop": 7,
+      "minecraft:open_enderchest": 17,
+      "minecraft:sprint_one_cm": 20217,
+      "minecraft:open_chest": 5,
+      "minecraft:fall_one_cm": 4825,
+      "minecraft:total_world_time": 33280,
+      "minecraft:fly_one_cm": 40131,
+      "minecraft:interact_with_anvil": 1,
+      "minecraft:crouch_one_cm": 435,
+      "minecraft:sneak_time": 878,
+      "minecraft:climb_one_cm": 2449,
+      "minecraft:deaths": 2
+    },
+    "minecraft:killed_by": {
+      "minecraft:player": 1,
+      "minecraft:creeper": 1
+    },
+    "minecraft:used": {
+      "minecraft:oak_planks": 8,
+      "minecraft:shulker_box": 2
+    },
+    "minecraft:dropped": {
+      "minecraft:wheat_seeds": 1,
+      "minecraft:netherite_sword": 1,
+      "minecraft:enchanted_golden_apple": 192,
+      "minecraft:leaf_litter": 4,
+      "minecraft:stick": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:shulker_box": 16,
+      "minecraft:light_blue_shulker_box": 2,
+      "minecraft:leaf_litter": 4,
+      "minecraft:oak_log": 2,
+      "minecraft:stick": 1,
+      "minecraft:wheat_seeds": 1
+    }
+  },
+  "DataVersion": 4671
+}

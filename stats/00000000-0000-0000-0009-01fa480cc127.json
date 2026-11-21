@@ -1,0 +1,24 @@
+{
+  "stats": {
+    "minecraft:mined": {
+      "minecraft:stripped_oak_log": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 3633,
+      "minecraft:walk_one_cm": 9588,
+      "minecraft:leave_game": 1,
+      "minecraft:damage_taken": 30,
+      "minecraft:play_time": 3633,
+      "minecraft:jump": 53,
+      "minecraft:time_since_death": 3633,
+      "minecraft:sprint_one_cm": 7042,
+      "minecraft:open_chest": 5,
+      "minecraft:fall_one_cm": 1719,
+      "minecraft:total_world_time": 3633,
+      "minecraft:fly_one_cm": 9220,
+      "minecraft:walk_on_water_one_cm": 194,
+      "minecraft:sneak_time": 7
+    }
+  },
+  "DataVersion": 4671
+}

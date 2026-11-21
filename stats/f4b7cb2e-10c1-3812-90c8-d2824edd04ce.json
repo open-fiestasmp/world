@@ -1,0 +1,25 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:sprint_one_cm": 6444,
+      "minecraft:time_since_rest": 726,
+      "minecraft:walk_one_cm": 812,
+      "minecraft:total_world_time": 726,
+      "minecraft:leave_game": 1,
+      "minecraft:fly_one_cm": 5608,
+      "minecraft:horse_one_cm": 1614,
+      "minecraft:play_time": 726,
+      "minecraft:jump": 18,
+      "minecraft:time_since_death": 726,
+      "minecraft:drop": 2
+    },
+    "minecraft:dropped": {
+      "minecraft:rotten_flesh": 1,
+      "minecraft:written_book": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:rotten_flesh": 1
+    }
+  },
+  "DataVersion": 4671
+}

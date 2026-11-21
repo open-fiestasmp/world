@@ -1,0 +1,35 @@
+{
+  "stats": {
+    "minecraft:killed_by": {
+      "minecraft:player": 1
+    },
+    "minecraft:dropped": {
+      "minecraft:iron_ingot": 572
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 1,
+      "minecraft:time_since_rest": 2783,
+      "minecraft:walk_one_cm": 10122,
+      "minecraft:leave_game": 3,
+      "minecraft:walk_under_water_one_cm": 476,
+      "minecraft:damage_taken": 363,
+      "minecraft:play_time": 7055,
+      "minecraft:damage_dealt": 9,
+      "minecraft:jump": 159,
+      "minecraft:time_since_death": 2582,
+      "minecraft:drop": 9,
+      "minecraft:sprint_one_cm": 26751,
+      "minecraft:open_chest": 3,
+      "minecraft:fall_one_cm": 1070,
+      "minecraft:swim_one_cm": 1142,
+      "minecraft:total_world_time": 7055,
+      "minecraft:fly_one_cm": 22999,
+      "minecraft:walk_on_water_one_cm": 78,
+      "minecraft:crouch_one_cm": 157,
+      "minecraft:sneak_time": 81,
+      "minecraft:deaths": 1,
+      "minecraft:climb_one_cm": 1741
+    }
+  },
+  "DataVersion": 4671
+}

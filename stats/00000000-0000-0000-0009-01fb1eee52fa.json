@@ -1,0 +1,48 @@
+{
+  "stats": {
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 1115,
+      "minecraft:walk_one_cm": 7289,
+      "minecraft:leave_game": 2,
+      "minecraft:walk_under_water_one_cm": 39,
+      "minecraft:damage_taken": 2429,
+      "minecraft:damage_dealt": 0,
+      "minecraft:play_time": 8048,
+      "minecraft:jump": 94,
+      "minecraft:time_since_death": 1077,
+      "minecraft:damage_dealt_absorbed": 74,
+      "minecraft:aviate_one_cm": 117657,
+      "minecraft:sprint_one_cm": 11855,
+      "minecraft:fall_one_cm": 5614,
+      "minecraft:total_world_time": 8048,
+      "minecraft:fly_one_cm": 12664,
+      "minecraft:walk_on_water_one_cm": 254,
+      "minecraft:crouch_one_cm": 996,
+      "minecraft:sneak_time": 129,
+      "minecraft:deaths": 5
+    },
+    "minecraft:used": {
+      "minecraft:elytra": 2,
+      "minecraft:netherite_chestplate": 2,
+      "minecraft:netherite_sword": 16,
+      "minecraft:written_book": 1,
+      "minecraft:firework_rocket": 17
+    },
+    "minecraft:killed_by": {
+      "minecraft:player": 5
+    },
+    "minecraft:picked_up": {
+      "minecraft:netherite_axe": 1,
+      "minecraft:netherite_pickaxe": 1,
+      "minecraft:firework_rocket": 64,
+      "minecraft:netherite_leggings": 1,
+      "minecraft:netherite_chestplate": 1,
+      "minecraft:elytra": 1,
+      "minecraft:netherite_helmet": 1,
+      "minecraft:arrow": 1,
+      "minecraft:netherite_boots": 1,
+      "minecraft:netherite_sword": 1
+    }
+  },
+  "DataVersion": 4671
+}

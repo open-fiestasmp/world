@@ -1,0 +1,31 @@
+{
+  "stats": {
+    "minecraft:killed_by": {
+      "minecraft:skeleton": 1,
+      "minecraft:creeper": 1,
+      "minecraft:zombie": 1
+    },
+    "minecraft:mined": {
+      "minecraft:short_grass": 1,
+      "minecraft:tall_grass": 1
+    },
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 126,
+      "minecraft:walk_one_cm": 37654,
+      "minecraft:leave_game": 4,
+      "minecraft:damage_taken": 821,
+      "minecraft:play_time": 10854,
+      "minecraft:jump": 71,
+      "minecraft:time_since_death": 0,
+      "minecraft:sprint_one_cm": 28398,
+      "minecraft:open_chest": 6,
+      "minecraft:fall_one_cm": 1175,
+      "minecraft:total_world_time": 10854,
+      "minecraft:fly_one_cm": 7742,
+      "minecraft:crouch_one_cm": 425,
+      "minecraft:sneak_time": 297,
+      "minecraft:deaths": 3
+    }
+  },
+  "DataVersion": 4671
+}
