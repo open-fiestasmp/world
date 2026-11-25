@@ -1,8 +1,16 @@
 {
   "stats": {
+    "minecraft:crafted": {
+      "minecraft:spruce_boat": 1,
+      "minecraft:spruce_planks": 12,
+      "minecraft:crafting_table": 1
+    },
     "minecraft:used": {
       "minecraft:spruce_boat": 3,
       "minecraft:crafting_table": 1
+    },
+    "minecraft:mined": {
+      "minecraft:spruce_log": 3
     },
     "minecraft:picked_up": {
       "minecraft:spruce_log": 3,
@@ -13,35 +21,27 @@
       "minecraft:arrow": 2,
       "minecraft:iron_ingot": 3
     },
+    "minecraft:dropped": {
+      "minecraft:sugar_cane": 2
+    },
     "minecraft:custom": {
       "minecraft:interact_with_crafting_table": 2,
-      "minecraft:time_since_rest": 4258,
-      "minecraft:walk_one_cm": 1727,
-      "minecraft:leave_game": 2,
+      "minecraft:time_since_rest": 5954,
+      "minecraft:walk_one_cm": 4578,
+      "minecraft:leave_game": 15,
       "minecraft:walk_under_water_one_cm": 726,
       "minecraft:damage_taken": 20,
       "minecraft:boat_one_cm": 17753,
-      "minecraft:play_time": 4258,
-      "minecraft:jump": 52,
-      "minecraft:time_since_death": 4258,
+      "minecraft:play_time": 5954,
+      "minecraft:jump": 83,
+      "minecraft:time_since_death": 5954,
       "minecraft:drop": 2,
-      "minecraft:sprint_one_cm": 7941,
-      "minecraft:fall_one_cm": 3850,
-      "minecraft:total_world_time": 4258,
-      "minecraft:fly_one_cm": 12718,
-      "minecraft:walk_on_water_one_cm": 449,
+      "minecraft:sprint_one_cm": 10352,
+      "minecraft:fall_one_cm": 5400,
+      "minecraft:total_world_time": 5954,
+      "minecraft:fly_one_cm": 19258,
+      "minecraft:walk_on_water_one_cm": 996,
       "minecraft:sneak_time": 39
-    },
-    "minecraft:crafted": {
-      "minecraft:spruce_boat": 1,
-      "minecraft:spruce_planks": 12,
-      "minecraft:crafting_table": 1
-    },
-    "minecraft:mined": {
-      "minecraft:spruce_log": 3
-    },
-    "minecraft:dropped": {
-      "minecraft:sugar_cane": 2
     }
   },
   "DataVersion": 4671
