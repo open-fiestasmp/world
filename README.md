@@ -6,14 +6,14 @@ It's about 47 GB of world files before extraction. Leave extra disk space for th
 
 ## download
 
-Open [Releases](https://github.com/open-fiestasmp/world/releases), choose `snapshot-2026-11-26-7`, then download **Source code (zip)**. Extract it. The folder with `level.dat` at its top level is the save. GitHub adds a wrapper folder around it; use that folder as the world folder. `README.md` is just this guide and can be removed after you read it.
+Open [Releases](https://github.com/open-fiestasmp/world/releases), choose `snapshot-2026-11-26-8`, then download **Source code (zip)**. Extract it. The folder with `level.dat` at its top level is the save. GitHub adds a wrapper folder around it; use that folder as the world folder. `README.md` is just this guide and can be removed after you read it.
 
 ## use it in java single-player
 
 1. Close Minecraft.
 2. Copy the extracted folder with `level.dat` into your Java Edition `saves` folder. On Windows that's `%appdata%\.minecraft\saves`; on macOS it's `~/Library/Application Support/minecraft/saves`; on Linux it's usually `~/.minecraft/saves`. Custom launchers may use a different game folder.
 3. Rename the copied folder to something like `FiestaSMP`.
-4. If you want the Nether and End too, download the matching `snapshot-2026-11-26-7` from [world-nether](https://github.com/open-fiestasmp/world-nether) and [world-the-end](https://github.com/open-fiestasmp/world-the-end). Copy the Nether repo's `DIM-1` folder and the End repo's `DIM1` folder into the root of this save. Don't copy their `level.dat` files over the Overworld's. Back up the save before replacing either dimension folder.
+4. If you want the Nether and End too, download the matching `snapshot-2026-11-26-8` from [world-nether](https://github.com/open-fiestasmp/world-nether) and [world-the-end](https://github.com/open-fiestasmp/world-the-end). Copy the Nether repo's `DIM-1` folder and the End repo's `DIM1` folder into the root of this save. Don't copy their `level.dat` files over the Overworld's. Back up the save before replacing either dimension folder.
 5. Start the same Minecraft version the save came from and open the copied world. Don't test an upgrade on your only copy.
 
 ## use it on a Paper server
